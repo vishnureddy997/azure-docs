@@ -22,7 +22,7 @@ Data Lake Storage Gen1 can be accessed from Hadoop (available with HDInsight clu
 
 ## Key capabilities
 
-Some of the key capabilities of Data Lake Storage Gen1 include the following.
+Some of the key capabilities of Data Lake Storage Gen1 include the follvfsdvowing.
 
 ### Built for Hadoop
 
